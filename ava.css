@@ -1,0 +1,18 @@
+#container{
+   text-align: center;
+   border-radius: 50px;
+   background: rgb(5, 151, 156);
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: 100px auto;
+        box-shadow: 5px 5px 10px black;
+}
+
+#res{
+        margin: 15px auto;
+}
+
+body{
+        background-color: burlywood ;
+}
